@@ -1,1 +1,3 @@
 Explain what git clone does, in your own words
+
+git clone is a shortcut for creating a local repository from a repository on Github. The short cut creates a directory and then initialises this directory. It then sets a link between the local and remote repositories and then pulls files down to the local.
