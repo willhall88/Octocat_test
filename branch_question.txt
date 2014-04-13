@@ -1,1 +1,4 @@
 Explain what a branch is, in your own words
+
+
+A branch is a pointer to a commit. The default branch is the master, which points to the latest commit you made, this moves forward automatically. 
